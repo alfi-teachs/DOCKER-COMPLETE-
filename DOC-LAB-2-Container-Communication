@@ -1,5 +1,6 @@
 # DOC-LAB-2
 Lab: How Containers Communicate
+
 1. Create Two Containers
 ```bash
 docker run -d -p 1000:80 httpd
