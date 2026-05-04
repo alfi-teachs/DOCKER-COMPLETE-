@@ -3,7 +3,9 @@
 # Step 1: Update system
 
 ```bash
+
 sudo yum update -y
+
 ```
 
 # Step 2: Install Docker
