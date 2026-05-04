@@ -1,13 +1,17 @@
 # DOC-LAB-1-Docker-Installation-and-Web-Server-Setup
 
 # Step 1: Update system
+
 ```bash
 sudo yum update -y
 ```
+
 # Step 2: Install Docker
+
 ```bash
 sudo yum install docker -y
 ```
+
 # Step 3: Start Docker service
 ```bash
 sudo systemctl start docker
