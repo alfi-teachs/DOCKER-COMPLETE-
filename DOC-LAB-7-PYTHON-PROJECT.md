@@ -1,3 +1,6 @@
+
+
+
 # DOC-LAB-7-PYTHON-PROJECT
 
 📁 Project Structure
