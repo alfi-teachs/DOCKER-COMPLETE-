@@ -19,6 +19,7 @@ python-webapp/
 └── Dockerfile
 
 1️⃣ Create app.py
+
 2️⃣ Create requirements.txt
 3️⃣ Create Dockerfile
 4️⃣ Open VS Code Terminal
