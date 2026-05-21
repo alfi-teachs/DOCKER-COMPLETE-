@@ -98,6 +98,21 @@ if __name__ == '__main__':
 flask
 ```
 3️⃣ Create Dockerfile
+```bash
+
+FROM python:3.11
+
+WORKDIR /app
+
+COPY requirements.txt .
+
+RUN pip install -r requirements.txt
+
+COPY . .
+
+CMD ["python", "app.py"]
+
+```
 4️⃣ Open VS Code Terminal
 5️⃣ Build Docker Image
 ```bash
